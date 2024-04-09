@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="./script.js" type="module" defer></script>
+</head>
+
+<body>
+    <header>
+        <div class="subcontainer">
+            <h1>Store</h1>
+            <input type="text" id="search" placeholder="search">
+            <select name="" id="select">
+                <option value="none">none</option>
+                <option value="low">low to high</option>
+                <option value="high">high to low</option>
+            </select>
+            <div class="md-4 m-2" id="checkbox">
+                <input type="checkbox" id="animals" value="animals">
+                <label for="animals">animals</label>
+                <input type="checkbox" id="food" value="food">
+                <label for="food">food</label>
+                <input type="checkbox" id="clothing" value="clothing">
+                <label for="clothing">clothes</label>
+            </div>
+        </div>
+        <div class="subcontainer">
+            <button>
+                <a href="/index.html">Home</a>
+            </button>
+            <button>
+                <a href="/addProducts/index.html">Add Products</a>
+            </button>
+            <button>
+                <a href="/editProducts/index.html">Edit Products</a>
+            </button>
+        </div>
+    </header>
+    <div id="container">
+
+    </div>
+</body>
+
+</html>
