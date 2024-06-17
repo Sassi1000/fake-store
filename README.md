@@ -7,3 +7,7 @@ In addition, it is possible to filter by category and product name.
 Express server, JS is used in the frontend.
 
 Screenshots:
+![Main Screen]()
+![Main Screen]()
+![Main Screen]()
+
