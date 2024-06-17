@@ -7,7 +7,7 @@ In addition, it is possible to filter by category and product name.
 Express server, JS is used in the frontend.
 
 Screenshots:
-![Main Screen]()
-![Main Screen]()
-![Main Screen]()
+![Main Screen](https://github.com/Sassi1000/fake-store/blob/main/Screen1.png)
+![Main Screen](https://github.com/Sassi1000/fake-store/blob/main/Screen2.png)
+![Main Screen](https://github.com/Sassi1000/fake-store/blob/main/Screen3.png)
 
