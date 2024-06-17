@@ -8,6 +8,10 @@ Express server, JS is used in the frontend.
 
 Screenshots:
 ![Main Screen](https://github.com/Sassi1000/fake-store/blob/main/Screen1.png)
+
+
 ![Main Screen](https://github.com/Sassi1000/fake-store/blob/main/Screen2.png)
+
+
 ![Main Screen](https://github.com/Sassi1000/fake-store/blob/main/Screen3.png)
 
